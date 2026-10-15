@@ -1,6 +1,6 @@
 {
   "project_id": "appgprj_6ad029777ef88191bcbcff584a5bab85",
   "static": {
-    "directory": "outputs/blank-page-browser"
+    "directory": "dist"
   }
 }
